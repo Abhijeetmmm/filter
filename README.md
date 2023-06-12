@@ -6,6 +6,10 @@ First, run the development server:
 
 npm install --force
 
+Login Page
+-----:   username : admin
+         password: Pass@123
+
 ```bash
 
 npm run dev
